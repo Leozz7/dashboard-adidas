@@ -32,12 +32,12 @@ Tela de abertura inspirada na identidade visual da Adidas, com navegação clara
 - Destaque para produtos mais lucrativos e populares.  
 
 ### 🔹 Varejistas
-![Varejistas](adidasData/imagens/varejistas.png)  
+![Varejistas](adidasData/imagens/varejista.png)  
 - Comparação de receita entre os principais parceiros (Amazon, Walmart, Foot Locker, etc.).  
 - Margem de lucro e participação percentual de cada varejista.  
 
 ### 🔹 Canais de Venda
-![Canais de Venda](imagens/canalDeVenda.png)  
+![Canais de Venda](adidasData/imagens/canalDeVenda.png)  
 - Distribuição das vendas por canal (In-store, Outlet e Online).  
 - Identificação do canal mais rentável.  
 
