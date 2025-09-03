@@ -16,23 +16,23 @@ O objetivo é fornecer uma visão clara e estratégica sobre o desempenho de ven
 ## 🖼️ Estrutura do Dashboard
 
 ### 🔹 Página Inicial
-![Home](imagens/Home.png)  
+![Home](adidasData/imagens/Home.png)  
 Tela de abertura inspirada na identidade visual da Adidas, com navegação clara para as demais páginas.  
 
 ### 🔹 Visão Geral
-![Visão Geral](imagens/visaoGeral.png)  
+![Visão Geral](adidasData/imagens/visaoGeral.png)  
 - KPIs principais: Receita Total, Lucro Total, Margem Média e Ticket Médio.  
 - Evolução mensal da receita em gráfico de linhas.  
 - Mapa geográfico mostrando distribuição das vendas por região.  
 
 ### 🔹 Produtos
-![Produtos](imagens/produtos.png)  
+![Produtos](adidasData/imagens/produtos.png)  
 - Receita e lucro por categoria de produto.  
 - Quantidade de unidades vendidas.  
 - Destaque para produtos mais lucrativos e populares.  
 
 ### 🔹 Varejistas
-![Varejistas](imagens/varejistas.png)  
+![Varejistas](adidasData/imagens/varejistas.png)  
 - Comparação de receita entre os principais parceiros (Amazon, Walmart, Foot Locker, etc.).  
 - Margem de lucro e participação percentual de cada varejista.  
 
